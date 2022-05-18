@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AS2122_4E_INF_PiviJago_GestioneArticoli", "AS2122_4E_INF_PiviJago_GestioneArticoli\AS2122_4E_INF_PiviJago_GestioneArticoli.csproj", "{C3DC1211-13B6-4E5C-97A6-1BA36446532A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3DC1211-13B6-4E5C-97A6-1BA36446532A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3DC1211-13B6-4E5C-97A6-1BA36446532A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3DC1211-13B6-4E5C-97A6-1BA36446532A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3DC1211-13B6-4E5C-97A6-1BA36446532A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5949A9D6-830E-4469-8A17-7A8000F4FA9A}
+	EndGlobalSection
+EndGlobal
